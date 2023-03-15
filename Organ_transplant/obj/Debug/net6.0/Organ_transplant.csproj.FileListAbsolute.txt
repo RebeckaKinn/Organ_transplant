@@ -1,0 +1,15 @@
+C:\Users\becka\Documents\Modul3\Organ_transplant\bin\Debug\net6.0\Organ_transplant.exe
+C:\Users\becka\Documents\Modul3\Organ_transplant\bin\Debug\net6.0\Organ_transplant.deps.json
+C:\Users\becka\Documents\Modul3\Organ_transplant\bin\Debug\net6.0\Organ_transplant.runtimeconfig.json
+C:\Users\becka\Documents\Modul3\Organ_transplant\bin\Debug\net6.0\Organ_transplant.dll
+C:\Users\becka\Documents\Modul3\Organ_transplant\bin\Debug\net6.0\Organ_transplant.pdb
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.csproj.AssemblyReference.cache
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.AssemblyInfoInputs.cache
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.AssemblyInfo.cs
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.csproj.CoreCompileInputs.cache
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.dll
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\refint\Organ_transplant.dll
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.pdb
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\Organ_transplant.genruntimeconfig.cache
+C:\Users\becka\Documents\Modul3\Organ_transplant\obj\Debug\net6.0\ref\Organ_transplant.dll
